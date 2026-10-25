@@ -69,7 +69,7 @@ wasmi = { version = "2", default-features = false, features = ["std", "validate"
 # geometry / fonts
 kurbo = { version = "0.13", features = ["serde"] }
 tiny-skia = { version = "0.12", default-features = false, features = ["std", "simd"] }
-skrifa = { version = "0.47", default-features = false, features = ["std"] }
+skrifa = { version = "0.46", default-features = false, features = ["std"] }
 harfrust = { version = "0.13", default-features = false, features = ["std"] }
 exr = "1.74"
 image = { version = "0.25", default-features = false, features = ["png", "jpeg"] }
